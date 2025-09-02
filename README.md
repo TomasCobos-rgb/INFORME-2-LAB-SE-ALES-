@@ -22,10 +22,4 @@ Para la segunda mitad de la parte A se utilizó python, nuevamente encontrando l
 
 [Ver Parte Python]()
 
-```python
-names = ['sample1', 'sample2', 'sample3']
 
-alpha = {names[0]:impedance('./FRF_sample1.txt'),
-        names[1]:impedance('./FRF_sample2.txt'),
-        names[2]:impedance('./FRF_sample3.txt')}
-```
