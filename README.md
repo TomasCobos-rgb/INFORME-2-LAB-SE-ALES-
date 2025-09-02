@@ -16,7 +16,7 @@ Se trabaja con un sistema h[n] definido por los dígitos del código personal y 
 ### PROCEDIMIENTO 
 La primera mitad de la parte A se desarolló manualmente, encontrando la señal y[n] resultante de la convolución usando sumatorias y asi mismo se realizo su gráfica. 
 
-[Ver Parte Manual](https://github.com/TomasCobos-rgb/INFORME-2-LAB-SE-ALES-/blob/main/Parte%20manual/.md#estudiante-isabella-gordillo)
+[Ver Parte Manual](https://github.com/TomasCobos-rgb/INFORME-2-LAB-SE-ALES-/blob/main/PARTE%20A.1/DESARROLLO%20A.1/.md)
 
 Para la segunda mitad de la parte A se utilizó python, nuevamente encontrando la señal y[n] resultante de la convolución usando sumatorias y realizando su representación gráfica.
 
