@@ -14,10 +14,11 @@ Convolución, correlación y transformada de Fourie
 Se trabaja con un sistema h[n] definido por los dígitos del código personal y una señal de entrada x[n] definida por los dígitos de la cédula del estudiante. El objetivo es calcular la señal resultante y[n] tanto de forma manual (mediante sumatorias y gráficas) como utilizando Python, con el fin de comparar ambos métodos y reforzar la comprensión del concepto.
 
 ### PROCEDIMIENTO 
-La primera mitad de la parte A se desarolló manualmente, encontrando la señal y[n] resultante de la convolución usando sumatorias y asi mismo se realizo su gráfica. 
+La primera mitad de la parte A se desarolló manualmente, encontrando la señal y[n] resultante de la convolución y así mismo se realizó su gráfica. 
 
 [Ver Parte Manual](https://github.com/TomasCobos-rgb/INFORME-2-LAB-SE-ALES-/blob/main/PARTE%20A.1/DESARROLLO%20A.1/.md)
 
+La segunda mitad de la parte A se desarolló usando funciones de python, encontrando la señal y[n] resultante de la convolución y así mismo se realizó su gráfica.
 [Ver Parte Python](https://github.com/TomasCobos-rgb/INFORME-2-LAB-SE-ALES-/blob/main/PARTE%20A.2/.md#parte-python)
 
 Para la segunda mitad de la parte A se utilizó python, nuevamente encontrando la señal y[n] resultante de la convolución usando sumatorias y realizando su representación gráfica.
