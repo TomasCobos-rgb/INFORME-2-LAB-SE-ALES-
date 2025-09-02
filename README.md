@@ -19,6 +19,7 @@ La primera mitad de la parte A se desarolló manualmente, encontrando la señal 
 [Ver Parte Manual](https://github.com/TomasCobos-rgb/INFORME-2-LAB-SE-ALES-/blob/main/PARTE%20A.1/DESARROLLO%20A.1/.md)
 
 La segunda mitad de la parte A se desarolló usando funciones de python, encontrando la señal y[n] resultante de la convolución y así mismo se realizó su gráfica.
+
 [Ver Parte Python](https://github.com/TomasCobos-rgb/INFORME-2-LAB-SE-ALES-/blob/main/PARTE%20A.2/.md#parte-python)
 
 Para la segunda mitad de la parte A se utilizó python, nuevamente encontrando la señal y[n] resultante de la convolución usando sumatorias y realizando su representación gráfica.
