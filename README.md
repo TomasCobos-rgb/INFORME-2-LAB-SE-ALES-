@@ -33,6 +33,6 @@ para Ts=1.25 ms
 ```
 El objetivo de esta parte B es encontrar la correlación cruzada entre ambas señales, la representación gráfica y describir la secuencia resultante y finalmente responder ¿En qué situaciones resulta útil aplicar la correlación cruzada en el procesamiento digital de señales?
 
-[Desarrollo Parte B]()
+[Desarrollo Parte B](https://github.com/TomasCobos-rgb/INFORME-2-LAB-SE-ALES-/blob/main/PARTE%20B/.md)
 
 
