@@ -23,3 +23,15 @@ Para la segunda mitad de la parte A se utilizó python, nuevamente encontrando l
 [Ver Parte Python](https://github.com/TomasCobos-rgb/INFORME-2-LAB-SE-ALES-/blob/main/PARTE%20A.2/.md#parte-python)
 
 
+### PARTE B
+Se definieron las siguientes señales: 
+
+```python
+x1[nTs]=cos⁡(2π100nTs))   para 0 ≤n< 9
+x2[nTs]=sin⁡(2π100nTs)     para 0 ≤n< 9 
+para Ts=1.25 ms
+```
+El objetivo de esta parte B es encontrar la correlación cruzada entre ambas señales, la representación gráfica y describir la secuencia resultante.
+3.	Responda ¿En qué situaciones resulta útil aplicar la correlación cruzada en el procesamiento digital de señales?
+
+
