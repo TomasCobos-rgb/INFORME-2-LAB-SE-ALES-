@@ -20,7 +20,7 @@ La primera mitad de la parte A se desarolló manualmente, encontrando la señal 
 
 Para la segunda mitad de la parte A se utilizó python, nuevamente encontrando la señal y[n] resultante de la convolución y realizando su representación gráfica.
 
-[Ver Diagrama de fujo](https://github.com/TomasCobos-rgb/INFORME-2-LAB-SE-ALES-/blob/main/PARTE%20A.2/Diagramas%20de%20flujo/.md#diagramas-de-flujo)
+[Ver Diagramas de fujo](https://github.com/TomasCobos-rgb/INFORME-2-LAB-SE-ALES-/blob/main/PARTE%20A.2/Diagramas%20de%20flujo/.md#diagramas-de-flujo)
 
 [Ver Parte Python](https://github.com/TomasCobos-rgb/INFORME-2-LAB-SE-ALES-/blob/main/PARTE%20A.2/.md#parte-python)
 
