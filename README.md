@@ -37,4 +37,22 @@ El objetivo de esta parte B es encontrar la correlación cruzada entre ambas se�
 
 [Desarrollo Parte B](https://github.com/TomasCobos-rgb/INFORME-2-LAB-SE-ALES-/blob/main/PARTE%20B/.md)
 
+### PARTE C
+En este apartado se presenta el proceso completo de análisis de una señal biológica generada con un simulador. Aquí se podrá observar:
+
+Determinación de la frecuencia de Nyquist de la señal inicial.
+
+Digitalización de la señal, empleando una frecuencia de muestreo cuatro veces mayor que la de Nyquist.
+
+Caracterización en el dominio temporal, calculando media, mediana, desviación estándar, máximo y mínimo, además de la clasificación de la señal según sus propiedades.
+
+Análisis en el dominio de la frecuencia mediante la Transformada de Fourier, mostrando:
+
+Espectro de la señal.
+
+Densidad espectral de potencia.
+
+Estadísticos en frecuencia (frecuencia media, mediana y desviación estándar).
+
+Histograma de frecuencias.
 
