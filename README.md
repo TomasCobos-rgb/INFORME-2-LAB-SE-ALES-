@@ -44,6 +44,7 @@ En este apartado se presenta el proceso completo de análisis de una señal biol
 2. Digitalización de la señal, empleando una frecuencia de muestreo cuatro veces mayor que la de Nyquist.
 3. Caracterización en el dominio temporal, calculando media, mediana, desviación estándar, máximo y mínimo, además de la clasificación de la señal según sus propiedades.
 4. Análisis en el dominio de la frecuencia mediante la Transformada de Fourier, mostrando:
+   
    4.1. Espectro de la señal.
    4.2. Densidad espectral de potencia.
    4.3. Estadísticos en frecuencia (frecuencia media, mediana y desviación estándar).
