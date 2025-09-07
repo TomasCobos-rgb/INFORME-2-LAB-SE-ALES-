@@ -50,4 +50,4 @@ En este apartado se presenta el proceso completo de análisis de una señal biol
    4.3. Estadísticos en frecuencia (frecuencia media, mediana y desviación estándar).
    4.4. Histograma de frecuencias.
 
-[Desarrollo Parte C]()
+[Desarrollo Parte C](https://github.com/TomasCobos-rgb/INFORME-2-LAB-SE-ALES-/blob/main/PARTE%20C/.md)
